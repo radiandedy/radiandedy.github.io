@@ -10,5 +10,4 @@ sitemap:
 
 <div id="describe-text">
 	<p>Personal website for blog and resume, mostly will post tutorial and software</p>
-	<p>
 </div>
