@@ -1,5 +1,5 @@
 # Site settings
-title: Radian Dedy A
+title: Radian Dedy Adipradana
 description: >
   Personal website for blog and resume, mostly will post tutorial and software
 
@@ -8,8 +8,8 @@ url: "radiandedy.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: Radian Dedy A
-  github: https://github.com/radiandedy
-  linkedin: https://www.linkedin.com/in/radian-dedy-adipradana-b8875718b/
+  github: radiandedy
+  linkedin: radian-dedy-adipradana-b8875718b/
   email: radianda@gmail.com
 
 
